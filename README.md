@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @FelipeCh00, or just Felipe.
+- 👀 I’m interested in programming, databases and all kind of languajes.
+- 🌱 I’m currently learning Java, Data Structures an SQL. I'm studing systems engineer (4th semester) and also I'm learning different courses in Udemy to learn other skills. 
+- 💞️ I’m looking to collaborate on big, medium and small proyects. I'm looking for a job in the industry. So if you like my work let me know :)
+- 📫 You can reach me by email, felipechacon200116@gmail.com. Or Juanf.chacong@utadeo.edu.co, also on my IG felipech_16.
